@@ -6,3 +6,7 @@ public class Latihan {
     }
 }
 ```
+
+```html
+<span class="text-danger">Contoh span</span>
+```
