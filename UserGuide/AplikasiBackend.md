@@ -1,2 +1,8 @@
 # PropamPoldaKalbar
-Aplikasi Propam Polda Kalbar
+```java
+public class Latihan {
+    public static void main(String[] args) {
+        System.out.println("Hello Word");
+    }
+}
+```
